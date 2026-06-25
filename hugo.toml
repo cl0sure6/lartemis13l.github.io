@@ -1,0 +1,76 @@
+baseURL = 'https://lartemis13l.github.io/'
+locale = 'en-us'
+title = 'Adilkhan Salkimbayev'
+theme = 'ananke'
+
+# Build-friendly defaults
+enableGitInfo = false
+
+[params]
+  # The homepage features the most recent cards from these section(s).
+  mainSections = ['projects']
+  # Used for SEO <meta description> on pages that don't set their own.
+  description = 'Research portfolio of Adilkhan Salkimbayev — projects, publications, and preprints.'
+  author = 'Adilkhan Salkimbayev'
+  background_color_class = 'bg-near-black'
+  # date_format = 'January 2, 2006'
+  # featured_image = 'images/hero.jpg'   # drop a file in /static/images/ to add a homepage hero banner
+
+  [params.ananke]
+    show_recent_posts = true      # show recent items from mainSections (your projects) on the homepage
+    recent_posts_number = 3
+
+    [params.ananke.home]
+      content_alignment = 'left'  # left | center | right
+
+    # --- Social / contact icons (shown in the header and footer) ---
+    [params.ananke.social.follow]
+      # Add a name here to switch a link on. Each name needs a matching block below.
+      networks = ['github', 'email']
+
+    [params.ananke.social.github]
+      username = 'lArtemis13l'
+
+    [params.ananke.social.email]
+      profilelink = 'mailto:adilsalkimbaev29@gmail.com'  # <-- change to your preferred contact address
+
+    # --- Ready to fill in: uncomment a block AND add its name to `networks` above ---
+
+    # [params.ananke.social.linkedin]
+    #   username = 'your-linkedin-id'        # the part after linkedin.com/in/
+
+    # Google Scholar isn't built into the theme, so define the network first:
+    # [params.ananke.social.networks.googlescholar]
+    #   slug = 'google-scholar'
+    #   label = 'Google Scholar'
+    #   color = '#4285F4'
+    #   icon = 'google-scholar'
+    #   profile = 'https://scholar.google.com/citations?user=%s'
+    # [params.ananke.social.googlescholar]
+    #   username = 'YOUR_SCHOLAR_ID'        # then add 'googlescholar' to networks above
+
+    # Same pattern for ORCID:
+    # [params.ananke.social.networks.orcid]
+    #   slug = 'orcid'
+    #   label = 'ORCID'
+    #   color = '#A6CE39'
+    #   icon = 'orcid'
+    #   profile = 'https://orcid.org/%s'
+    # [params.ananke.social.orcid]
+    #   username = '0000-0000-0000-0000'    # then add 'orcid' to networks above
+
+[menu]
+  [[menu.main]]
+    name = 'Projects'
+    url = '/projects/'
+    weight = 1
+
+  [[menu.main]]
+    name = 'Publications'
+    url = '/publications/'
+    weight = 2
+
+  [[menu.main]]
+    name = 'CV'
+    url = '/cv/'
+    weight = 3

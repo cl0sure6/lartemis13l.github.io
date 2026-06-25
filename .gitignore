@@ -1,0 +1,12 @@
+# Hugo build output and caches (generated — never commit)
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Hugo lock/temp
+hugo_stats.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
