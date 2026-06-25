@@ -26,7 +26,7 @@ enableGitInfo = false
     # --- Social / contact icons (shown in the header and footer) ---
     [params.ananke.social.follow]
       # Add a name here to switch a link on. Each name needs a matching block below.
-      networks = ['github', 'email']
+      networks = ['github', 'email', 'linkedin', 'orcid']
 
     [params.ananke.social.github]
       username = 'lArtemis13l'
@@ -36,8 +36,8 @@ enableGitInfo = false
 
     # --- Ready to fill in: uncomment a block AND add its name to `networks` above ---
 
-     [params.ananke.social.linkedin]
-       username = 'adilkhan-salkimbayev-08a1842aa'        # the part after linkedin.com/in/
+    [params.ananke.social.linkedin]
+      username = 'adilkhan-salkimbayev-08a1842aa'        # the part after linkedin.com/in/
 
     # Google Scholar isn't built into the theme, so define the network first:
     # [params.ananke.social.networks.googlescholar]
