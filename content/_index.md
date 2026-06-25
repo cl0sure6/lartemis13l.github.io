@@ -10,25 +10,23 @@ description = 'Aspiring researcher — projects, publications & preprints'
   Anything in [brackets] is a placeholder to replace.
 -->
 
-Hi, I'm **Adilkhan Salkimbayev** — [a one-line intro, e.g. an undergraduate at
-_University_ studying _field_, applying to graduate programs in _area_].
+Hi, I'm **Adilkhan Salkimbayev** — a 19-year-old undergraduate student at KBTU, on the final year of my Bachelor studies.
 
-I work on [your research focus]. My interests sit at the intersection of
-[topic A], [topic B], and [topic C], and I'm especially drawn to
-[what motivates your research].
+I work on the intersection of Applied Mathematics and Scientific Machine Learnings. My interests sit at the intersection of
+Functional Analysis, Control Theory, and Partial Differential Equations, and I'm especially drawn to Navier-Stokes equations.
 
 ### Research interests
 
-- [Interest one — a sentence on why it matters to you]
-- [Interest two]
-- [Interest three]
+- **Functional Analysis** - upon reading the work of Haim Brezis "Functional Analysis, Sobolev Spaces and Partial Differential Equations", I fell in love with the rigor and mathematical certainty of the functional-analytic frameworks, using some of them in my everyday life.
+- **Control Theory** - while by the nature of my major I encounter basics of it, I was curious to learn deeper underlying truths of the system design, thus I dedicated several months of my life to get a good grasp on the field's advancements and publications.
+- **Partial Differential Equations** - upon taking a deeper, more rigorous look into Navier-Stokes equations and the 6th Millennium Prize problem, I became fascinated with the underlying theory and took upon myself to learn it.
 
 ### Currently
 
-- [e.g. Research assistant in the _Lab Name_ at _University_]
-- [e.g. Preparing a manuscript on _topic_]
+- A 4th year student at KBTU
+- Preparing a manuscript on functional-analytic control architecture that I am designing
 
 ---
 
-Browse my [projects](/projects/) and [publications &amp; preprints](/publications/),
-or read my [CV](/cv/). The quickest way to reach me is the email icon in the header.
+Browse my [projects](/projects/) or read my [CV](/cv/).
+The quickest way to reach me is the email icon in the header.

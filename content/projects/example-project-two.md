@@ -1,27 +1,28 @@
 +++
-title = 'Another Project'
-date = 2026-02-10
-summary = 'A second example so you can see how multiple project cards lay out. Duplicate this file for each new project.'
-tags = ['research']
+title = 'Robust Adaptive Kolmogorov-Arnold Neural Control'
+date = 2026-04-16
+summary = 'Designed an adaptive control architecture achieving 5x speedup (conservatively) and 5x reduction in actuator Total Variation compared to Linear Time-Varying Model Predictive Control. Features rigorous experimental validation and proof of Lyapunov stability by ISS/GUUB and LaSalle-Yoshizawa Theorem.'
+tags = ['research', 'topic']
 draft = false
+# featured_image = 'images/project-one.jpg'   # optional: put the image in /static/images/
 +++
 
 ## Overview
 
-[Short description of the project.]
+The project addresses a gap present in existing control architectures: while Model Predictive Control represents a rigorous paradigm capable of robust and optimal control, it is also computationally demanding and produces a control law that is only piecewise continuous (Bemporad, 2003). The architecture I designed addresses both limitations: by designing the control law to be Lipschitz, that is differentiable a.e. (Rademacher's Theorem), I managed to reduce the Total Variation of Input by 5 times; additionally, the architecture only performs linear matrix operations (Recursive Least Squares with a forgetting factor), which provided me with a runtime reduced by 5 times on Python (as OSQP is C-based, the differential is hence conservative). 
 
 ## My role
 
-[Your contribution.]
+The project was designed and architected by me from start to finish.  
 
 ## Approach
 
-[How you went about it.]
+Existing literature was used in combination with findings from my first research project. Most of the techniques were implemented and coded by hand in the IDE; the techniques featured has been simulated in Python and saved in corresponding CSV files for further parsing and presentation.
 
 ## Results
 
-[What you found or built.]
+- [Adversarial testing against LTV-MPC](/images/Fig2_Disturbance_RejectionTank3.pdf)
 
 ## Links
 
-- [Code](https://github.com/lArtemis13l/your-repo)
+- [Report / preprint](/preprints/LCSS_entry.pdf)
