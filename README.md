@@ -1,51 +1,57 @@
 # Adilkhan Salkimbayev — Research Portfolio
 
 A [Hugo](https://gohugo.io/) site (theme: [Ananke](https://github.com/gohugo-ananke/ananke))
-for projects, publications, and preprints.
+showcasing research projects, preprints, and a CV. Deploys to GitHub Pages at
+**https://lartemis13l.github.io/**.
 
 ## Edit the content
 
 | What | File |
 | --- | --- |
 | Homepage / bio | `content/_index.md` |
-| Name & tagline | `title` and `[params].description` in `hugo.toml` |
-| Projects | `content/projects/` (one `.md` file per project) |
-| Publications & preprints | `content/publications/` (one `.md` file per paper) |
+| Homepage tagline (the line under your name) | `description` in `content/_index.md` front matter |
+| Your name | `title` in `hugo.toml` |
+| Projects | `content/projects/` — one `.md` file per project |
 | CV page | `content/cv.md` |
-| Nav menu & social links | `hugo.toml` |
+| Nav menu & social/contact links | `hugo.toml` |
+| Homepage card layout | `layouts/home.html`, `layouts/summary-with-image.html` |
 
 **Hosted files:**
 
-- CV PDF → put it at `static/files/cv.pdf` (linked from the CV page).
-- Preprint PDFs → put them in `static/preprints/`, e.g. `static/preprints/my-paper.pdf`
-  becomes available at `/preprints/my-paper.pdf`.
-
-## Personalize first (quick checklist)
-
-- [ ] Replace every `[bracketed placeholder]` in `content/`.
-- [ ] Set your tagline (`description`) and confirm your name (`title`) in `hugo.toml`.
-- [ ] Confirm/replace the contact email in `hugo.toml` (`params.ananke.social.email`).
-- [ ] (Optional) Enable LinkedIn / Google Scholar / ORCID — uncomment the blocks in `hugo.toml`.
-- [ ] Replace the two example projects and the example publication with your own.
-- [ ] Add your `cv.pdf` and any preprint PDFs.
+- CV PDF → `static/files/cv.pdf` (linked from the CV page).
+- Preprint PDFs → `static/preprints/`, e.g. `static/preprints/my-paper.pdf` is served at
+  `/preprints/my-paper.pdf` and linked from the relevant project page.
 
 ## Run locally
 
 ```bash
-hugo server -D      # http://localhost:1313/ , -D shows drafts
+hugo server -D      # http://localhost:1313/  (-D shows drafts)
 ```
 
-## Deploy (GitHub Pages)
+(`.claude/launch.json` also defines a `hugo` server config for the editor preview.)
 
-A workflow at `.github/workflows/hugo.yml` builds and deploys on every push.
+## Deploy
 
-1. Create a GitHub repo named **`lArtemis13l.github.io`** (empty — no README).
-2. Push this project:
-   ```bash
-   git remote add origin https://github.com/lArtemis13l/lArtemis13l.github.io.git
-   git push -u origin master
-   ```
-3. In the repo: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-4. The site goes live at **https://lartemis13l.github.io/** (served in lowercase).
+The repo is connected to GitHub at **`lArtemis13l/lartemis13l.github.io`**. Every push to
+`master` runs `.github/workflows/hugo.yml`, which checks out the ananke submodule, builds
+with Hugo extended, and publishes to Pages (~1 min):
 
-Update `HUGO_VERSION` in the workflow when you upgrade Hugo locally.
+```bash
+git add -A && git commit -m "your message" && git push
+```
+
+One-time GitHub setting: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+
+Bump `HUGO_VERSION` in the workflow when you upgrade Hugo locally (check with `hugo version`).
+
+## When you're ready
+
+- **Restore Publications:** uncomment the menu block in `hugo.toml` and recreate
+  `content/publications/` — it was removed until the EAAI paper is under review. (The
+  homepage tagline in `content/_index.md` still says "publications & preprints"; adjust to
+  taste.)
+- **More socials:** uncomment the LinkedIn / Google Scholar / ORCID blocks in `hugo.toml`
+  and add each name to the `networks` list.
+- **Contact email:** `params.ananke.social.email` currently uses your account address —
+  swap it if you prefer another.
+- **Custom domain:** the GitHub Student Pack free domain can point at this Pages site later.
