@@ -1,0 +1,7 @@
+{{- /* Project override: serve an SVG favicon (graduation cap) with the correct
+       media type. If a traditional params.favicon (e.g. an .ico) is ever set,
+       emit that too as a fallback for older browsers. */ -}}
+<link rel="icon" type="image/svg+xml" href="{{ urls.RelURL "favicon.svg" }}" />
+{{ with .Site.Params.favicon }}
+  <link rel="shortcut icon" type="image/x-icon" href="{{ urls.RelURL . }}" />
+{{ end }}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Graduation cap">
+  <rect width="64" height="64" rx="14" fill="#1e293b"/>
+  <!-- crown that sits on the head, mostly hidden behind the board -->
+  <path d="M26 32 H38 L37 45 Q32 47.5 27 45 Z" fill="#cbd5e1"/>
+  <!-- mortarboard: flat square top seen in perspective -->
+  <path d="M32 18 L55 27 L32 36 L9 27 Z" fill="#ffffff"/>
+  <!-- centre button -->
+  <circle cx="32" cy="27" r="2.3" fill="#f4b740"/>
+  <!-- tassel: cord across the board, over the edge, with a bob -->
+  <path d="M32 27 L47 31 V42" fill="none" stroke="#f4b740" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="47" cy="44.5" r="3" fill="#f4b740"/>
+</svg>

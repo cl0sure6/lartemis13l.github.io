@@ -13,6 +13,7 @@ enableGitInfo = false
   description = 'Research portfolio of Adilkhan Salkimbayev — projects, publications, and preprints.'
   author = 'Adilkhan Salkimbayev'
   background_color_class = 'bg-near-black'
+  nav_brand = 'Home'   # text for the top-left home link (your name still shows in the banner, title bar, and footer)
   # date_format = 'January 2, 2006'
   # featured_image = 'images/hero.jpg'   # drop a file in /static/images/ to add a homepage hero banner
 
