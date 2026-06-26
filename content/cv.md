@@ -3,8 +3,7 @@ title = 'CV'
 description = 'Curriculum vitae'
 +++
 
-[**Download PDF**](/files/cv.pdf) — place your CV at `static/files/cv.pdf` so this
-link works.
+[**Download PDF**](/files/cv.pdf) — my CV (Curriculum vitae).
 
 ## Education
 
