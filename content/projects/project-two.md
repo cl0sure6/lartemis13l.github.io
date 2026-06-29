@@ -9,7 +9,7 @@ draft = false
 
 ## Overview
 
-The project addresses a gap present in existing control architectures: while Model Predictive Control represents a rigorous paradigm capable of robust and optimal control, it is also computationally demanding and produces a control law that is only piecewise continuous (Bemporad, 2003). The architecture I designed addresses both limitations: by designing the control law to be Lipschitz, that is differentiable a.e. (Rademacher's Theorem), I managed to reduce the Total Variation of Input by 5 times; additionally, the architecture only performs linear matrix operations (Recursive Least Squares with a forgetting factor), which provided me with a runtime reduced by 5 times on Python (as OSQP is C-based, the differential is hence conservative). 
+The project addresses a gap present in existing control architectures: while Model Predictive Control represents a rigorous paradigm capable of robust and optimal control, it is also computationally demanding and produces a control law that is only piecewise continuous (Bemporad, 2003). The architecture I designed addresses both limitations: by designing the control law to be Lipschitz, that is differentiable a.e. (Rademacher's Theorem), I managed to reduce the Total Variation of Input by upwards of 1.5x; additionally, the architecture only performs linear matrix operations (Recursive Least Squares with a forgetting factor), which provided me with a runtime considerably reduced compared to the competing controllers. 
 
 ## My role
 
