@@ -1,7 +1,7 @@
 +++
 title = 'Robust Adaptive Kolmogorov-Arnold Neural Control'
 date = 2026-04-16
-summary = 'Designed an adaptive control architecture achieving 5x speedup (conservatively) and 5x reduction in actuator Total Variation compared to Linear Time-Varying Model Predictive Control. Features rigorous experimental validation and proof of Lyapunov stability by ISS/GUUB and LaSalle-Yoshizawa Theorem.'
+summary = 'Designed an adaptive control architecture achieving a significant speedup and reduction of upwards of 1.5x in actuator Total Variation compared to Linear Time-Varying Model Predictive Control. Features rigorous experimental validation and proof of Lyapunov stability by ISS/GUUB and LaSalle-Yoshizawa Theorem.'
 tags = ['research', 'topic']
 draft = false
 # featured_image = 'images/project-one.jpg'   # optional: put the image in /static/images/
