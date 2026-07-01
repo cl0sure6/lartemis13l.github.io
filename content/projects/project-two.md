@@ -21,8 +21,10 @@ Existing literature was used in combination with findings from my first research
 
 ## Results
 
-- [Adversarial testing against LTV-MPC](/images/Fig2_Disturbance_RejectionTank3.pdf)
+- [Adversarial testing against LTV-MPC, Tank 2](/images/Fig1_Disturbance_RejectionTank2.pdf)
+- [Adversarial testing against LTV-MPC, Tank 3](/images/Fig2_Disturbance_RejectionTank3.pdf)
+- [Adversarial testing against LTV-MPC, Tank 4](/images/Fig3_Disturbance_RejectionTank4.pdf)
 
 ## Links
 
-- [Report / preprint](/preprints/LCSS_entry.pdf)
+- [Report / preprint](/preprints/main.pdf)
