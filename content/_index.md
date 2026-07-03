@@ -12,19 +12,20 @@ description = 'Aspiring researcher — projects, publications & preprints'
 
 Hi, I'm **Adilkhan Salkimbayev** — a 19-year-old undergraduate student at KBTU, on the final year of my Bachelor studies.
 
-I work on the intersection of Applied Mathematics and Scientific Machine Learnings. My interests sit at the intersection of
-Functional Analysis, Control Theory, and Partial Differential Equations, and I'm especially drawn to Navier-Stokes equations.
+I work on the intersection of Applied Mathematics and Scientific Machine Learning. My interests sit at the intersection of
+functional analysis, operator and semigroup theory, partial differential equations and control theory. I'm especially drawn to Navier-Stokes equations.
 
 ### Research interests
 
-- **Functional Analysis** - upon reading the work of Haim Brezis "Functional Analysis, Sobolev Spaces and Partial Differential Equations", I fell in love with the rigor and mathematical certainty of the functional-analytic frameworks, using some of them in my everyday life.
+- **Functional analysis, operator and semigroup theory** - upon reading the work of Haim Brezis "Functional Analysis, Sobolev Spaces and Partial Differential Equations", I understood foundational arguments used in operator theory and partial differential equations, implementing them to understand advanced formulations.
 - **Control Theory** - while by the nature of my major I encounter basics of it, I was curious to learn deeper underlying truths of the system design, thus I dedicated several months of my life to get a good grasp on the field's advancements and publications.
-- **Partial Differential Equations** - upon taking a deeper, more rigorous look into Navier-Stokes equations and the 6th Millennium Prize problem, I became fascinated with the underlying theory and took upon myself to learn it.
+- **Partial differential equations** - reading the work of Lawrence C. Evans "Partial Differential Equations", I embarked on the journey of understanding the foundational notions and solution frameworks made from foundational theory.
+- **Real analysis** - currently in the process of understanding the frameworks necessary to construct advanced mathematical proofs.
 
 ### Currently
-
 - A 4th year student at KBTU
-- Preparing a manuscript on functional-analytic control architecture that I am designing
+- In process of refining the work for Automatica with my co-author
+- In process of designing the Scaling Mode Control architecture (drawing foundations from Evans, Brezis and Stein)
 
 ---
 
