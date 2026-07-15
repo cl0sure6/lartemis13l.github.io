@@ -24,7 +24,6 @@ functional analysis, operator and semigroup theory, partial differential equatio
 
 ### Currently
 - A 4th year student at KBTU
-- In process of refining the work for Automatica with my co-author
 - In process of designing the Scaling Mode Control architecture (drawing foundations from Evans, Brezis and Stein)
 
 ---

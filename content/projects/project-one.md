@@ -9,7 +9,7 @@ draft = false
 
 ## Overview
 
-The project addresses a gap present in existing control architectures: while Model Predictive Control represents a rigorous paradigm capable of robust and optimal control, it is also computationally demanding. The paper proposes a symbolic distillation of the MPC control law into a lightweight polynomial via Kolmogorov-Arnold Networks (KANs), yielding increased performance by up to 5 orders of magnitude.
+The project addresses a gap present in existing control architectures: while Model Predictive Control represents a rigorous paradigm capable of robust and optimal control, it is also computationally demanding. The paper proposes a symbolic distillation of the MPC control law into a lightweight polynomial via Kolmogorov-Arnold Networks (KANs), reducing inference latency by up to 5 orders of magnitude — from 19 ms with stochastic jitter down to 1 µs of constant-time execution — alongside an order-of-magnitude reduction in memory footprint. The extracted symbolic law also permits a systematic Jacobian evaluation to formally rule out unsafe positive feedback topologies prior to deployment in C.
 
 ## My role
 
@@ -17,7 +17,7 @@ The project was designed and architected by me from start to finish.
 
 ## Approach
 
-Existing literature was used to design the MPC control law. The distillation was performed by me, providing a basis for future research. 
+Existing literature was used to design the MPC control law. The distillation was performed by me, providing a basis for future research; the distilled controller was validated through hardware-in-the-loop experiments on an STM32H7 microcontroller against structural boundary handovers, unmodeled actuator degradation, and previously unseen reference trajectories. 
 
 ## Results
 
