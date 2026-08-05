@@ -15,7 +15,7 @@ description = 'Curriculum vitae'
 
 **Self-directed, KBTU** — Architect · (Nov 2025 - ongoing)
 
-- Produced two papers (one under review at Engineering Applications of Artificial Intelligence, one completed for further submission)
+- Produced two papers (one under review at the Journal of Process Control, one under review at Automatica)
 - Utilized Kolmogorov-Arnold Networks for control-theoretic applications
 - Designed Model Predictive Control for K. H. Johansson's Quadruple-Tank Process
 - Implemented the embedded C code for the NUCLEO-H753ZI motherboard

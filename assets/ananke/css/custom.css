@@ -1,0 +1,12 @@
+/* Paper titles run long; without this they overflow the viewport on narrow screens. */
+article h1 {
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+@media screen and (max-width: 30em) {
+  article h1.f1 {
+    font-size: 2.25rem;
+    line-height: 1.1;
+  }
+}
