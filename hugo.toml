@@ -57,7 +57,7 @@ enableGitInfo = false
        label = 'ORCID'
        color = '#A6CE39'
        icon = 'orcid'
-       profile = 'https://orcid.org/my-orcid?orcid=0009-0003-9763-0294'
+       profile = 'https://orcid.org/%s'   # %s is replaced with `username` below
      [params.ananke.social.orcid]
        username = '0009-0003-9763-0294'    # then add 'orcid' to networks above
 
