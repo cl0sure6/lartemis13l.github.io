@@ -15,7 +15,7 @@ description = 'Curriculum vitae'
 
 **Self-directed, KBTU** — Architect · (Nov 2025 - ongoing)
 
-- Produced two papers (one under review at the Journal of Process Control, one under review at the International Journal of Adaptive Control and Signal Processing)
+- Produced three manuscripts — two original research papers under review (Journal of Process Control; International Journal of Adaptive Control and Signal Processing) and one expository article in analysis and PDE
 - Utilized Kolmogorov-Arnold Networks for control-theoretic applications
 - Designed Model Predictive Control for K. H. Johansson's Quadruple-Tank Process
 - Implemented the embedded C code for the NUCLEO-H753ZI motherboard
@@ -24,11 +24,15 @@ description = 'Curriculum vitae'
 - Gained hands-on experience with Machine Learning and training methodologies
 - Familiarized myself with relevant literature and theoretical knowledge
 - Gained experience of research iteration under Dr. Khawaja S. Haider
-- Currently transitioning to Functional Analysis and Partial Differential Equations
+- Transitioned to Functional Analysis and Partial Differential Equations, and wrote a 34-page expository construction of Leray-Hopf weak solutions of the 2D Navier-Stokes equations as the first output of that shift
 
-## Publications
+## Publications & preprints
 
-Manuscripts in progress — preprints are linked under [Projects](/projects/).
+Three manuscripts to date. Each is linked below and written up in full under [Projects](/projects/).
+
+1. A. Salkimbayev. **Certifiable Approximation of Model Predictive Control Laws: A Shape-Constrained Polynomial Read-Out.** Under review, *Journal of Process Control*. [Preprint](/preprints/JPC_entry.pdf)
+2. A. Salkimbayev, K. S. Haider. **Robust Adaptive Kolmogorov-Arnold Neural Control.** Under review, *International Journal of Adaptive Control and Signal Processing*. [Preprint](/preprints/main.pdf)
+3. A. Salkimbayev. **Leray-Hopf Weak Solutions of the 2D Navier-Stokes Equations on the Torus: An Expository Construction.** Expository article — no originality claimed; written at the level of a first graduate course. [Preprint](/preprints/ex_article.pdf)
 
 ## Skills
 
