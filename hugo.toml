@@ -31,7 +31,7 @@ enableGitInfo = false
       networks = ['github', 'email', 'linkedin', 'orcid']
 
     [params.ananke.social.github]
-      username = 'lArtemis13l'
+      username = 'cl0sure6'
 
     [params.ananke.social.email]
       profilelink = 'mailto:adilsalkimbayev@gmail.com'  # <-- change to your preferred contact address

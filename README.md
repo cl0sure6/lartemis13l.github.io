@@ -32,7 +32,7 @@ hugo server -D      # http://localhost:1313/  (-D shows drafts)
 
 ## Deploy
 
-The repo is connected to GitHub at **`lArtemis13l/lartemis13l.github.io`**. Every push to
+The repo is connected to GitHub at **`cl0sure6/lartemis13l.github.io`**. Every push to
 `master` runs `.github/workflows/hugo.yml`, which checks out the ananke submodule, builds
 with Hugo extended, and publishes to Pages (~1 min):
 
