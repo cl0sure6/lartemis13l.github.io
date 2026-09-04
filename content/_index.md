@@ -22,7 +22,6 @@ functional analysis, operator and semigroup theory, partial differential equatio
 - **Partial differential equations** - reading the work of Lawrence C. Evans "Partial Differential Equations", I embarked on the journey of understanding the foundational notions and solution frameworks made from foundational theory.
 
 ### Currently
-- A 4th year student at KBTU
 - In process of designing the Scaling Mode Control architecture (drawing foundations from Evans, Brezis and Stein)
 
 ---
