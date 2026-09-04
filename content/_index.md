@@ -1,5 +1,5 @@
 +++
-description = 'Aspiring researcher — projects, publications & preprints'
+description = 'Applied mathematics & scientific machine learning — projects, publications & preprints'
 +++
 
 <!--
@@ -10,7 +10,7 @@ description = 'Aspiring researcher — projects, publications & preprints'
   Anything in [brackets] is a placeholder to replace.
 -->
 
-Hi, I'm **Adilkhan Salkimbayev** — a 19-year-old undergraduate student at KBTU, on the final year of my Bachelor studies.
+Hi, I'm **Adilkhan Salkimbayev** — an undergraduate at KBTU, in the final year of a B.Sc. in Automation and Control (2027).
 
 I work on the intersection of Applied Mathematics and Scientific Machine Learning. My interests sit at the intersection of
 functional analysis, operator and semigroup theory, partial differential equations and control theory. I'm especially drawn to Navier-Stokes equations.
@@ -20,7 +20,6 @@ functional analysis, operator and semigroup theory, partial differential equatio
 - **Functional analysis, operator and semigroup theory** - upon reading the work of Haim Brezis "Functional Analysis, Sobolev Spaces and Partial Differential Equations", I understood foundational arguments used in operator theory and partial differential equations, implementing them to understand advanced formulations.
 - **Control Theory** - while by the nature of my major I encounter basics of it, I was curious to learn deeper underlying truths of the system design, thus I dedicated several months of my life to get a good grasp on the field's advancements and publications.
 - **Partial differential equations** - reading the work of Lawrence C. Evans "Partial Differential Equations", I embarked on the journey of understanding the foundational notions and solution frameworks made from foundational theory.
-- **Real analysis** - currently in the process of understanding the frameworks necessary to construct advanced mathematical proofs.
 
 ### Currently
 - A 4th year student at KBTU
