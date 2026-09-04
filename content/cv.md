@@ -17,9 +17,7 @@ description = 'Curriculum vitae'
 
 - Produced three manuscripts — two original research papers under review (Journal of Process Control; International Journal of Adaptive Control and Signal Processing) and one expository article in analysis and PDE
 - Utilized Kolmogorov-Arnold Networks for control-theoretic applications
-- Designed Model Predictive Control for K. H. Johansson's Quadruple-Tank Process
-- Implemented the embedded C code for the NUCLEO-H753ZI motherboard
-- Gained experience with Hardware-in-the-Loop methodology
+- Designed Linear Time-Varying Model Predictive Control for K. H. Johansson's Quadruple-Tank Process, and a certifiable constant-time explicit approximation of it
 - Produced empirical and theoretical validation for the control architectures
 - Gained hands-on experience with Machine Learning and training methodologies
 - Familiarized myself with relevant literature and theoretical knowledge
