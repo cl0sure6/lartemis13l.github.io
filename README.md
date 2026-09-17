@@ -46,10 +46,12 @@ Bump `HUGO_VERSION` in the workflow when you upgrade Hugo locally (check with `h
 
 ## When you're ready
 
-- **Restore Publications:** uncomment the menu block in `hugo.toml` and recreate
-  `content/publications/` — it was removed until the EAAI paper is under review. (The
-  homepage tagline in `content/_index.md` still says "publications & preprints"; adjust to
-  taste.)
+- **Publications page:** there isn't one. The three manuscripts are listed with preprint
+  links under "Publications & preprints" on the CV page, and each is written up in full
+  under `content/projects/`, so a separate section would repeat them. To give them their
+  own page anyway, uncomment the menu block in `hugo.toml` and create
+  `content/publications/`. (The homepage tagline in `content/_index.md` already says
+  "publications & preprints".)
 - **More socials:** uncomment the LinkedIn / Google Scholar / ORCID blocks in `hugo.toml`
   and add each name to the `networks` list.
 - **Contact email:** `params.ananke.social.email` currently uses your account address —

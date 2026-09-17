@@ -72,8 +72,9 @@ enableGitInfo = false
     url = '/cv/'
     weight = 2
 
-  # Publications removed for now — restore by re-adding this block (weight 2)
-  # and recreating content/publications/ when the EAAI paper is in review.
+  # No Publications page for now — the manuscripts are listed on the CV page and written
+  # up under content/projects/. To add one, uncomment this block and create
+  # content/publications/.
   # [[menu.main]]
   #   name = 'Publications'
   #   url = '/publications/'
