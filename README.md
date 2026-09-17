@@ -52,8 +52,10 @@ Bump `HUGO_VERSION` in the workflow when you upgrade Hugo locally (check with `h
   own page anyway, uncomment the menu block in `hugo.toml` and create
   `content/publications/`. (The homepage tagline in `content/_index.md` already says
   "publications & preprints".)
-- **More socials:** uncomment the LinkedIn / Google Scholar / ORCID blocks in `hugo.toml`
-  and add each name to the `networks` list.
+- **Google Scholar:** the one social link still off. Uncomment both `googlescholar` blocks
+  in `hugo.toml` (the network definition and the username), replace `YOUR_SCHOLAR_ID`, and
+  add `'googlescholar'` to the `networks` list. GitHub, email, LinkedIn and ORCID are
+  already live.
 - **Contact email:** `params.ananke.social.email` currently uses your account address —
   swap it if you prefer another.
 - **Custom domain:** the GitHub Student Pack free domain can point at this Pages site later.

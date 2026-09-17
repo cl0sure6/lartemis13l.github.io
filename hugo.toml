@@ -36,7 +36,7 @@ enableGitInfo = false
     [params.ananke.social.email]
       profilelink = 'mailto:adilsalkimbayev@gmail.com'  # <-- change to your preferred contact address
 
-    # --- Ready to fill in: uncomment a block AND add its name to `networks` above ---
+    # --- A block below only shows up once its name is in `networks` above ---
 
     [params.ananke.social.linkedin]
       username = 'adilkhan-salkimbayev-08a1842aa'        # the part after linkedin.com/in/
@@ -59,7 +59,7 @@ enableGitInfo = false
        icon = 'orcid'
        profile = 'https://orcid.org/%s'   # %s is replaced with `username` below
      [params.ananke.social.orcid]
-       username = '0009-0003-9763-0294'    # then add 'orcid' to networks above
+       username = '0009-0003-9763-0294'
 
 [menu]
   [[menu.main]]
