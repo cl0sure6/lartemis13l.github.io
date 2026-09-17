@@ -15,7 +15,7 @@ description = 'Curriculum vitae'
 
 **Self-directed, KBTU** — Architect · (Nov 2025 - ongoing)
 
-- Produced three manuscripts — two original research papers under review (Journal of Process Control; International Journal of Adaptive Control and Signal Processing) and one expository article in analysis and PDE
+- Produced three manuscripts — two original research papers in peer review (Journal of Process Control, major revision; International Journal of Adaptive Control and Signal Processing, under review) and one expository article in analysis and PDE
 - Utilized Kolmogorov-Arnold Networks for control-theoretic applications
 - Designed Linear Time-Varying Model Predictive Control for K. H. Johansson's Quadruple-Tank Process, and a certifiable constant-time explicit approximation of it
 - Produced empirical and theoretical validation for the control architectures
@@ -28,7 +28,7 @@ description = 'Curriculum vitae'
 
 Three manuscripts to date. Each is linked below and written up in full under [Projects](/projects/).
 
-1. A. Salkimbayev. **Certifiable Approximation of Model Predictive Control Laws: A Shape-Constrained Polynomial Read-Out.** Under review, *Journal of Process Control*. [Preprint](/preprints/JPC_entry.pdf)
+1. A. Salkimbayev. **Certifiable Approximation of Model Predictive Control Laws: A Shape-Constrained Polynomial Read-Out.** Major revision, *Journal of Process Control*. [Preprint](/preprints/JPC_entry.pdf)
 2. A. Salkimbayev, K. S. Haider. **Robust Adaptive Kolmogorov-Arnold Neural Control.** Under review, *International Journal of Adaptive Control and Signal Processing*. [Preprint](/preprints/main.pdf)
 3. A. Salkimbayev. **Leray-Hopf Weak Solutions of the 2D Navier-Stokes Equations on the Torus: An Expository Construction.** Expository article — no originality claimed; written at the level of a first graduate course. [Preprint](/preprints/ex_article.pdf)
 
