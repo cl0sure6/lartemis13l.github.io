@@ -36,7 +36,7 @@ Seven manuscripts to date. Each is linked below and written up in full under [Pr
 6. A. Salkimbayev. **Cross-Triad Rigidity for Cascade Operators.** Paper III of four; preprint, September 2026. [Preprint](/preprints/cross-triad-rigidity.pdf)
 7. A. Salkimbayev. **Momentum Helicity Separates Cascade Operators from Euler–Arnold Operators.** Paper IV of four; preprint, September 2026. [Preprint](/preprints/momentum-helicity-separation.pdf)
 
-Items 4–7 are a single sequence on whether Tao's averaged Navier–Stokes blowup operator can be an Euler–Arnold operator. All three were produced with substantial AI assistance under my direction; I am responsible for the contents. Not yet independently reviewed.
+Items 4–7 are a single sequence on whether Tao's averaged Navier–Stokes blowup operator can be an Euler–Arnold operator. All four were produced with substantial AI assistance under my direction; I am responsible for the contents. Not yet independently reviewed.
 
 ## Skills
 
