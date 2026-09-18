@@ -1,7 +1,7 @@
 +++
 title = 'Certifiable Approximation of Model Predictive Control Laws: A Shape-Constrained Polynomial Read-Out'
 date = 2026-04-24
-summary = 'Asks what a symbolic Kolmogorov-Arnold read-out actually contributes to the distillation of a Model Predictive Control law, on the Johansson quadruple-tank benchmark in both minimum- and non-minimum-phase regimes. Establishes that the symbolic extraction, rather than the network, dominates the approximation error; that imposing negative feedback as an affine inequality inside a convex read-out removes a failure mode occurring on up to 31% of the operating box by construction; and reports the negative result that the KAN-selected monomial support is statistically indistinguishable from orthogonal matching pursuit.'
+summary = 'Asks what a symbolic Kolmogorov–Arnold read-out actually contributes to the distillation of a Model Predictive Control law, on the Johansson quadruple-tank benchmark in both minimum- and non-minimum-phase regimes. Establishes that the symbolic extraction, rather than the network, dominates the approximation error; that imposing negative feedback as an affine inequality inside a convex read-out removes a failure mode occurring on up to 31% of the operating box by construction; and reports the negative result that the KAN-selected monomial support is statistically indistinguishable from orthogonal matching pursuit.'
 tags = ['research', 'topic']
 draft = false
 # featured_image = 'images/project-one.jpg'   # optional: put the image in /static/images/
@@ -9,7 +9,7 @@ draft = false
 
 ## Overview
 
-Approximating a Model Predictive Control policy offline removes the online optimizer from the loop, but it also removes the guarantees that motivated using MPC in the first place. The paper's argument is that what can be recovered analytically depends less on how well the approximant fits than on the class it belongs to: a control law that is polynomial in the measured state and linear in its own coefficients admits an analytic closed-loop Jacobian, convex shape constraints and an identifiability analysis, none of which is available for a dense network of comparable accuracy. Symbolic Kolmogorov-Arnold Networks (KANs) are one route into that class, and this work asks what that route actually presents.
+Approximating a Model Predictive Control policy offline removes the online optimizer from the loop, but it also removes the guarantees that motivated using MPC in the first place. The paper's argument is that what can be recovered analytically depends less on how well the approximant fits than on the class it belongs to: a control law that is polynomial in the measured state and linear in its own coefficients admits an analytic closed-loop Jacobian, convex shape constraints and an identifiability analysis, none of which is available for a dense network of comparable accuracy. Symbolic Kolmogorov–Arnold Networks (KANs) are one route into that class, and this work asks what that route actually presents.
 
 The study is deliberately self-critical: it reports where the method fails as carefully as where it succeeds, and it states the boundary of its own claim — that it establishes a method validated on a benchmark which cannot by itself justify the method's use, since the LTV-MPC teacher outperforms a well-tuned gain-scheduled LQR on this plant by only 7-9%. Demonstrating that distillation pays for itself requires a plant on which optimization-based control earns a large margin, such as one with active state constraints or short sampling periods.
 

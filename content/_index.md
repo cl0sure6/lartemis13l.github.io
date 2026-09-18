@@ -13,7 +13,7 @@ description = 'Applied mathematics & scientific machine learning — projects, p
 Hi, I'm **Adilkhan Salkimbayev** — an undergraduate at KBTU, in the final year of a B.Sc. in Automation and Control (2027).
 
 I work on the intersection of Applied Mathematics and Scientific Machine Learning. My interests sit at the intersection of
-functional analysis, operator and semigroup theory, partial differential equations and control theory. I'm especially drawn to Navier-Stokes equations.
+functional analysis, operator and semigroup theory, partial differential equations and control theory. I'm especially drawn to Navier–Stokes equations.
 
 ### Research interests
 
