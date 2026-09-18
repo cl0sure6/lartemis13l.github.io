@@ -15,7 +15,7 @@ description = 'Curriculum vitae'
 
 **Self-directed, KBTU** — Architect · (Nov 2025 - ongoing)
 
-- Produced four manuscripts — two original research papers in peer review (Journal of Process Control, major revision; International Journal of Adaptive Control and Signal Processing, under review), one expository article in analysis and PDE, and one structural note on Tao's averaged Navier–Stokes equation
+- Produced six manuscripts — two original research papers in peer review (Journal of Process Control, major revision; International Journal of Adaptive Control and Signal Processing, under review), one expository article in analysis and PDE, and a three-paper sequence on the rigidity of the Euler–Arnold form, which rules out Tao's averaged Navier–Stokes blowup operator as an Euler–Arnold operator
 - Utilized Kolmogorov–Arnold Networks for control-theoretic applications
 - Designed Linear Time-Varying Model Predictive Control for K. H. Johansson's Quadruple-Tank Process, and a certifiable constant-time explicit approximation of it
 - Produced empirical and theoretical validation for the control architectures
@@ -26,12 +26,16 @@ description = 'Curriculum vitae'
 
 ## Publications & preprints
 
-Four manuscripts to date. Each is linked below and written up in full under [Projects](/projects/).
+Six manuscripts to date. Each is linked below and written up in full under [Projects](/projects/).
 
 1. A. Salkimbayev. **Certifiable Approximation of Model Predictive Control Laws: A Shape-Constrained Polynomial Read-Out.** Major revision, *Journal of Process Control*. [Preprint](/preprints/JPC_entry.pdf)
 2. A. Salkimbayev, K. S. Haider. **Robust Adaptive Kolmogorov–Arnold Neural Control.** Under review, *International Journal of Adaptive Control and Signal Processing*. [Preprint](/preprints/main.pdf)
 3. A. Salkimbayev. **Leray–Hopf Weak Solutions of the 2D Navier–Stokes Equations on the Torus: An Expository Construction.** Expository article — no originality claimed; written at the level of a first graduate course. [Preprint](/preprints/ex_article.pdf)
-4. A. Salkimbayev. **Rigidity of the Euler–Arnold Form under Energy-Preserving Deformation.** Preprint, September 2026. Produced with substantial AI assistance under my direction; not yet independently reviewed. [Preprint](/preprints/euler-arnold-rigidity.pdf)
+4. A. Salkimbayev. **Rigidity of the Euler–Arnold Form under Energy-Preserving Deformation.** Paper I of three; preprint, September 2026. [Preprint](/preprints/euler-arnold-rigidity.pdf)
+5. A. Salkimbayev. **The Isotropic Directional Obstruction for Cascade Operators.** Paper II of three; preprint, September 2026. [Preprint](/preprints/isotropic-directional-obstruction.pdf)
+6. A. Salkimbayev. **Cross-Triad Rigidity for Cascade Operators.** Paper III of three; preprint, September 2026. [Preprint](/preprints/cross-triad-rigidity.pdf)
+
+Items 4–6 are a single sequence on whether Tao's averaged Navier–Stokes blowup operator can be an Euler–Arnold operator. All three were produced with substantial AI assistance under my direction; I am responsible for the contents. Not yet independently reviewed.
 
 ## Skills
 

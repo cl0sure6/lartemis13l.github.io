@@ -35,5 +35,7 @@ Disallow: /
 # lever for it is this file.
 User-agent: *
 Disallow: /preprints/euler-arnold-rigidity.pdf
+Disallow: /preprints/isotropic-directional-obstruction.pdf
+Disallow: /preprints/cross-triad-rigidity.pdf
 
 Sitemap: https://hecatetdm.tech/sitemap.xml
