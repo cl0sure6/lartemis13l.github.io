@@ -10,3 +10,6 @@ hugo_stats.json
 .DS_Store
 Thumbs.db
 *~
+
+# Local ops script — deliberately not published in the public repo
+cloudflare-rules.sh
