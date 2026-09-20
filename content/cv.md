@@ -37,7 +37,7 @@ Eight manuscripts to date. Each is linked below and written up in full under [Pr
 7. A. Salkimbayev. **Momentum Helicity Separates Cascade Operators from Euler–Arnold Operators.** Paper IV of five; preprint, September 2026. [Preprint](/preprints/momentum-helicity-separation.pdf)
 8. A. Salkimbayev. **A Beale–Kato–Majda Criterion for Right-Invariant H^s Metrics on SDiff(T³).** Paper V of five; preprint, September 2026. [Preprint](/preprints/beale-kato-majda-criterion.pdf)
 
-Items 4–8 are a single sequence: items 4–7 ask whether Tao's averaged Navier–Stokes blowup operator can be an Euler–Arnold operator, and item 8 proves a continuation criterion for the same family of metrics. All five were produced with substantial AI assistance under my direction; I am responsible for the contents. Not yet independently reviewed.
+Items 4–8 are a single sequence: items 4–7 ask whether Tao's averaged Navier–Stokes blowup operator can be an Euler–Arnold operator, and item 8 proves a Beale–Kato–Majda continuation criterion for the same family, which Tao noted was unavailable for generalised Euler equations. All five were produced with substantial AI assistance under my direction; I am responsible for the contents. Not yet independently reviewed.
 
 ## Skills
 
