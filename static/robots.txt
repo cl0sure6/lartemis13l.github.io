@@ -38,5 +38,6 @@ Disallow: /preprints/euler-arnold-rigidity.pdf
 Disallow: /preprints/isotropic-directional-obstruction.pdf
 Disallow: /preprints/cross-triad-rigidity.pdf
 Disallow: /preprints/momentum-helicity-separation.pdf
+Disallow: /preprints/beale-kato-majda-criterion.pdf
 
 Sitemap: https://hecatetdm.tech/sitemap.xml
