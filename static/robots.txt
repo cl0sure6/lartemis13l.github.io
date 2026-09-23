@@ -39,5 +39,8 @@ Disallow: /preprints/isotropic-directional-obstruction.pdf
 Disallow: /preprints/cross-triad-rigidity.pdf
 Disallow: /preprints/momentum-helicity-separation.pdf
 Disallow: /preprints/beale-kato-majda-criterion.pdf
+Disallow: /preprints/two-and-a-half-dimensional-flows.pdf
+Disallow: /preprints/axisymmetric-flows-with-swirl.pdf
+Disallow: /preprints/one-dimensional-wall-model.pdf
 
 Sitemap: https://hecatetdm.tech/sitemap.xml
