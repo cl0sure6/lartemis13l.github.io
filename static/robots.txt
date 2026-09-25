@@ -42,5 +42,11 @@ Disallow: /preprints/beale-kato-majda-criterion.pdf
 Disallow: /preprints/two-and-a-half-dimensional-flows.pdf
 Disallow: /preprints/axisymmetric-flows-with-swirl.pdf
 Disallow: /preprints/one-dimensional-wall-model.pdf
+Disallow: /preprints/eight-conditions.pdf
+Disallow: /preprints/transport-gap-1.pdf
+Disallow: /preprints/transport-gap-2-flow-map.pdf
+Disallow: /preprints/transport-gap-3-ledger.pdf
+Disallow: /preprints/transport-gap-4-events.pdf
+Disallow: /preprints/thirteen-conditions.pdf
 
 Sitemap: https://hecatetdm.tech/sitemap.xml

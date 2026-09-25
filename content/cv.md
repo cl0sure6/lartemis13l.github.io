@@ -15,7 +15,7 @@ description = 'Curriculum vitae'
 
 **Self-directed, KBTU** — Architect · (Nov 2025 - ongoing)
 
-- Produced eleven manuscripts — two original research papers in peer review (Journal of Process Control, major revision; International Journal of Adaptive Control and Signal Processing, under review), one expository article in analysis and PDE, and an eight-paper program on right-invariant metrics on SDiff(T³): four ruling out Tao's averaged Navier–Stokes blowup operator as an Euler–Arnold operator, one proving a Beale–Kato–Majda continuation criterion for the H^s family, and three taking that family's blowup question through two-and-a-half-dimensional, axisymmetric and wall-model reductions
+- Produced seventeen manuscripts — two original research papers in peer review (Journal of Process Control, major revision; International Journal of Adaptive Control and Signal Processing, under review), one expository article in analysis and PDE, an eight-paper program on right-invariant metrics on SDiff(T³) — four ruling out Tao's averaged Navier–Stokes blowup operator as an Euler–Arnold operator, one proving a Beale–Kato–Majda continuation criterion for the H^s family, and three taking that family's blowup question through two-and-a-half-dimensional, axisymmetric and wall-model reductions — and a six-paper program on transport and the supercriticality gap in the three-dimensional Navier–Stokes equations, which states the conditions a quantity deciding global regularity must satisfy without claiming one
 - Utilized Kolmogorov–Arnold Networks for control-theoretic applications
 - Designed Linear Time-Varying Model Predictive Control for K. H. Johansson's Quadruple-Tank Process, and a certifiable constant-time explicit approximation of it
 - Produced empirical and theoretical validation for the control architectures
@@ -26,7 +26,7 @@ description = 'Curriculum vitae'
 
 ## Publications & preprints
 
-Eleven manuscripts to date. Each is linked below and written up in full under [Projects](/projects/).
+Seventeen manuscripts to date, each linked below; items 1–3 are written up in full under [Projects](/projects/).
 
 1. A. Salkimbayev. **Certifiable Approximation of Model Predictive Control Laws: A Shape-Constrained Polynomial Read-Out.** Major revision, *Journal of Process Control*. [Preprint](/preprints/JPC_entry.pdf)
 2. A. Salkimbayev, K. S. Haider. **Robust Adaptive Kolmogorov–Arnold Neural Control.** Under review, *International Journal of Adaptive Control and Signal Processing*. [Preprint](/preprints/main.pdf)
@@ -41,6 +41,15 @@ Eleven manuscripts to date. Each is linked below and written up in full under [P
 11. A. Salkimbayev. **A One-Dimensional Wall Model for the H^s Euler–Arnold Equations: Blowup Below s = 1/2, Regularity Above.** Paper VIII of eight; preprint, September 2026. [Preprint](/preprints/one-dimensional-wall-model.pdf)
 
 Items 4–11 are a single program: items 4–7 ask whether Tao's averaged Navier–Stokes blowup operator can be an Euler–Arnold operator; item 8 proves a Beale–Kato–Majda continuation criterion for the H^s family, which Tao noted was unavailable for generalised Euler equations; and items 9–11 take that family's blowup question through two-and-a-half-dimensional, axisymmetric and one-dimensional wall reductions, the last proving a sharp blowup/regularity dichotomy for a one-dimensional model. All eight were produced with substantial AI assistance under my direction; I am responsible for the contents. Not yet independently reviewed.
+
+12. A. Salkimbayev. **Eight Conditions on the Missing Estimate for the Three-Dimensional Navier–Stokes Equations.** Note; preprint, September 2026. [Preprint](/preprints/eight-conditions.pdf)
+13. A. Salkimbayev. **Transport and the Supercriticality Gap in 3D Navier–Stokes, I.** Part I of four; preprint, September 2026. [Preprint](/preprints/transport-gap-1.pdf)
+14. A. Salkimbayev. **Transport and the Supercriticality Gap in 3D Navier–Stokes, II: The Flow Map.** Part II of four; preprint, September 2026. [Preprint](/preprints/transport-gap-2-flow-map.pdf)
+15. A. Salkimbayev. **Transport and the Supercriticality Gap in 3D Navier–Stokes, III: The Ledger.** Part III of four; preprint, September 2026. [Preprint](/preprints/transport-gap-3-ledger.pdf)
+16. A. Salkimbayev. **Transport and the Supercriticality Gap in 3D Navier–Stokes, IV: Events.** Part IV of four; preprint, September 2026. [Preprint](/preprints/transport-gap-4-events.pdf)
+17. A. Salkimbayev. **What Must Be Conserved: Thirteen Conditions on the Missing Quantity for the Three-Dimensional Navier–Stokes Equations.** Note; preprint, September 2026. [Preprint](/preprints/thirteen-conditions.pdf)
+
+Items 12–17 are a second program, on transport and the supercriticality gap in the three-dimensional Navier–Stokes equations: two notes stating the conditions that any quantity deciding global regularity must satisfy — eight, then thirteen — and a four-part series on the strain equation, the flow map, the circulation ledger and strain-producing events. None of them resolves the regularity problem, and each says so. All six were produced with substantial AI assistance under my direction; I am responsible for the contents. Not yet independently reviewed.
 
 ## Skills
 
