@@ -55,7 +55,7 @@ Items 12–17 are a second program, on transport and the supercriticality gap in
 
 - **Programming:** Python, C
 - **Tools:** PyTorch, NumPy, pandas, matplotlib, pykan, CVXPY, LaTeX
-- **Languages:** English (C1, IELTS 7.5), Russian (native)
+- **Languages:** English (C1, IELTS 8.0), Russian (native)
 
 ## Awards & service
 
