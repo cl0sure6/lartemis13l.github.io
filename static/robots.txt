@@ -48,5 +48,11 @@ Disallow: /preprints/transport-gap-2-flow-map.pdf
 Disallow: /preprints/transport-gap-3-ledger.pdf
 Disallow: /preprints/transport-gap-4-events.pdf
 Disallow: /preprints/thirteen-conditions.pdf
+Disallow: /preprints/self-induction-protective-tilt.pdf
+Disallow: /preprints/kramers-escape-strained-vortices.pdf
+Disallow: /preprints/drift-tracking-vortex-tubes.pdf
+Disallow: /preprints/circulation-leray-variables.pdf
+Disallow: /preprints/covering-for-collapse.pdf
+Disallow: /preprints/time-averaged-bernoulli-identity.pdf
 
 Sitemap: https://hecatetdm.tech/sitemap.xml

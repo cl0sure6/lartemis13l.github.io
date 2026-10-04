@@ -48,3 +48,8 @@ By Arnold's theorem the Euler equations are not just a bilinear operator obeying
 **Proof status.** Paper I's finite hypotheses are verified case by case by an accompanying script rather than established in general. Papers II, III and IV mark their computational propositions as numerical — two, nine and eleven respectively. Paper V's theorems are proved, granted the commutator, product and kernel estimates it quotes, with numerical checks alongside them. Papers VI, VII and VIII prove their theorems and report numerical studies as evidence next to them, not in place of them; Paper VIII's checks were registered before they were run, and the runs added afterwards are labelled post hoc.
 
 **Attribution.** Where a paper carries its own acknowledgement, that is the precise statement of who did what. In outline: the question and the direction of the program are mine, including the choice of target at each step. One thing that is not: for Paper V, the identification that a Beale–Kato–Majda criterion was the missing prerequisite — that none existed for this family, and that supplying one was the available next step — was made by Claude, the AI system I worked with, in the course of the work. The derivations, the proofs, the numerical work, the reconstruction of Tao's cascade, and a first draft of each paper were produced with substantial AI assistance under my direction, and I am responsible for the contents, including any errors. Not yet independently reviewed; corrections welcome.
+
+## The other programs
+
+- [Transport and the Supercriticality Gap in 3D Navier–Stokes](/projects/transport-gap/)
+- [Strained Vortex Tubes and the Covering of Collapse in 3D Navier–Stokes](/projects/strained-vortex-tubes/)
