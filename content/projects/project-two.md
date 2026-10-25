@@ -37,4 +37,4 @@ Complementing the Monte-Carlo campaign, a single-realization stress test injects
 
 ## Remark
 
-This work was originally submitted to Automatica (July 2026). It was subsequently revised and retargeted — the certificate is now stated free of any persistent-excitation requirement, and the benchmark is verified to be an unexcited regime — and the present version is under review at the International Journal of Adaptive Control and Signal Processing.
+This work was originally submitted to Automatica (July 2026). It was subsequently revised and retargeted — the certificate is now stated free of any persistent-excitation requirement, and the benchmark is verified to be an unexcited regime — and the present version received a major-revision decision at the International Journal of Adaptive Control and Signal Processing.
