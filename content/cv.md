@@ -28,7 +28,7 @@ description = 'Curriculum vitae'
 
 Three manuscripts, each written up in full under [Projects](/projects/).
 
-1. A. Salkimbayev. **Certifiable Approximation of Model Predictive Control Laws: A Shape-Constrained Polynomial Read-Out.** Minor revision, *Journal of Process Control*. [Preprint](/preprints/JPC_entry.pdf)
+1. A. Salkimbayev. **Structural Guarantees in the Approximation of Model Predictive Control Laws: A Shape-Constrained Polynomial Read-Out.** Minor revision, *Journal of Process Control*. [Preprint](/preprints/JPC_entry.pdf)
 2. A. Salkimbayev, K. S. Haider. **Robust Adaptive Kolmogorov–Arnold Neural Control.** Major revision, *International Journal of Adaptive Control and Signal Processing*. [Preprint](/preprints/main.pdf)
 3. A. Salkimbayev. **Leray–Hopf Weak Solutions of the 2D Navier–Stokes Equations on the Torus: An Expository Construction.** Expository article — no originality claimed; written at the level of a first graduate course. [Preprint](/preprints/ex_article.pdf)
 
