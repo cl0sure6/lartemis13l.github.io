@@ -37,4 +37,4 @@ Existing literature was used to design the LTV-MPC teacher; the distillation, th
 
 ## Remark
 
-This work was originally submitted to IEEE ICCA 2026 and, upon feedback, re-routed to Engineering Applications of Artificial Intelligence. It was subsequently rewritten substantially — the scope narrowed from an embedded-deployment claim to a certification study — and the present version, having passed a major revision at the Journal of Process Control, received a minor-revision decision there; the preprint linked above is the revised manuscript prepared in response.
+This work was originally submitted to IEEE ICCA 2026 and, upon feedback, re-routed to Engineering Applications of Artificial Intelligence. It was subsequently rewritten substantially — the scope narrowed from an embedded-deployment claim to a certification study — and the present version, having passed a major revision at the Journal of Process Control, received a minor-revision decision there; the preprint linked above is the revised manuscript, which has been resubmitted.
