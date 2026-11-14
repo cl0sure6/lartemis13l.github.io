@@ -15,7 +15,7 @@ description = 'Curriculum vitae'
 
 **Self-directed, KBTU** — Architect · (Nov 2025 - ongoing)
 
-- Produced three manuscripts — two original research papers in peer review (Journal of Process Control, resubmitted; International Journal of Adaptive Control and Signal Processing, major revision) and one expository article in analysis and PDE
+- Produced four manuscripts — three original research papers in peer review (Journal of Process Control, resubmitted; International Journal of Adaptive Control and Signal Processing, major revision; Physics of Fluids, under review) and one expository article in analysis and PDE
 - Utilized Kolmogorov–Arnold Networks for control-theoretic applications
 - Designed Linear Time-Varying Model Predictive Control for K. H. Johansson's Quadruple-Tank Process, and a certifiable constant-time explicit approximation of it
 - Produced empirical and theoretical validation for the control architectures
@@ -26,11 +26,12 @@ description = 'Curriculum vitae'
 
 ## Publications & preprints
 
-Three manuscripts, each written up in full under [Projects](/projects/).
+Four manuscripts, each written up in full under [Projects](/projects/).
 
 1. A. Salkimbayev. **Structural Guarantees in the Approximation of Model Predictive Control Laws: A Shape-Constrained Polynomial Read-Out.** Resubmitted, *Journal of Process Control*. [Preprint](/preprints/JPC_entry.pdf)
 2. A. Salkimbayev, K. S. Haider. **Robust Adaptive Kolmogorov–Arnold Neural Control.** Major revision, *International Journal of Adaptive Control and Signal Processing*. [Preprint](/preprints/main.pdf)
-3. A. Salkimbayev. **Leray–Hopf Weak Solutions of the 2D Navier–Stokes Equations on the Torus: An Expository Construction.** Expository article — no originality claimed; written at the level of a first graduate course. [Preprint](/preprints/ex_article.pdf)
+3. A. Salkimbayev. **A Lorentzian Law for the Enstrophy Bursts of Reconnecting Vortex Tubes.** Under review, *Physics of Fluids*. Produced with substantial AI assistance, as the paper declares. [Preprint](/preprints/POF_entry.pdf)
+4. A. Salkimbayev. **Leray–Hopf Weak Solutions of the 2D Navier–Stokes Equations on the Torus: An Expository Construction.** Expository article — no originality claimed; written at the level of a first graduate course. [Preprint](/preprints/ex_article.pdf)
 
 **Further preprints.** Three programs of preprints, twenty papers in all, September–October 2026: [The Euler–Arnold Program](/projects/project-four/), [Transport and the Supercriticality Gap in 3D Navier–Stokes](/projects/transport-gap/), and [Strained Vortex Tubes and the Covering of Collapse in 3D Navier–Stokes](/projects/strained-vortex-tubes/). Produced with substantial AI assistance under my direction; none resolves the regularity problem; not yet independently reviewed.
 
