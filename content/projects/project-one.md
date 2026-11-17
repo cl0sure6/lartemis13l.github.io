@@ -32,9 +32,9 @@ Existing literature was used to design the LTV-MPC teacher; the distillation, th
 
 ## Links
 
-- [Report / preprint](/preprints/JPC_entry.pdf)
+- [Accepted manuscript](/preprints/JPC_entry.pdf)
 - [Code and data](https://github.com/cl0sure6/QuadTank_KAN_and_LTV-MPC) (Apache 2.0; running the numbered stage scripts in order regenerates every number, figure and table in the paper)
 
 ## Remark
 
-This work was originally submitted to IEEE ICCA 2026 and, upon feedback, re-routed to Engineering Applications of Artificial Intelligence. It was subsequently rewritten substantially — the scope narrowed from an embedded-deployment claim to a certification study — and the present version, having passed a major revision at the Journal of Process Control, received a minor-revision decision there; the preprint linked above is the revised manuscript, which has been resubmitted.
+This work was originally submitted to IEEE ICCA 2026 and, upon feedback, re-routed to Engineering Applications of Artificial Intelligence. It was subsequently rewritten substantially — the scope narrowed from an embedded-deployment claim to a certification study — and the present version was accepted for publication in the Journal of Process Control after a major and then a minor revision. It is in press; the manuscript linked above is the accepted version.
